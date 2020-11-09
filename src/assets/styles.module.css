@@ -1,0 +1,11 @@
+.background {
+    background: radial-gradient(circle, rgba(64,93,237,1) 0%, rgba(70,187,252,1) 100%);  /* fallback for old browsers */
+}
+
+.movieScreen {
+    width: 100% !important;
+}
+
+.paddedHeader {
+    padding: 1%;
+}
