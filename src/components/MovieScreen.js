@@ -24,7 +24,7 @@ const MovieScreen = () => {
         <Card fluid>
           <Card.Header>
             {/* Task: Add some padding to the header */}
-            <h2>My Holiday Movies</h2>
+            <h2>My Movies</h2>
           </Card.Header>
           <Card.Content>
             <Card.Group>
