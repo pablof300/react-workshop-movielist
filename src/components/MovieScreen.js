@@ -40,7 +40,11 @@ const MovieScreen = () => {
             <h2>Add new movie</h2>
           </Card.Header>
           <Card.Content>
-            {/* Task: Add a form with the five Form.Field (movie name, movie image link, movie year, personal comment, personal rating) and submit button */}
+            {/*
+              Task: Add a form with the five Form.Field
+              (movie name, movie image link, movie year, personal comment, personal rating)
+              and submit button
+            */}
             <Form>
             </Form>
           </Card.Content>
